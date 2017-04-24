@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Tejas_K/.android/build-cache/20a47b31c1b4b590aa08c8d3dfb4efff742580c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Tejas_K/Desktop/hardUST 2017/LED/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d3a0fc277edddc83bba3f9255fbde7762a0aaed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tejas_K/Desktop/hardUST 2017/LED/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c544bf448376f9b1335ab701e5e4db936d932e2f">
+        <dex dex="/Users/Tejas_K/Desktop/hardUST 2017/LED/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_72a9369a7d87a04898b5d234afbc42f1de1f9825/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tejas_K/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Tejas_K/Desktop/hardUST 2017/LED/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_847e566718af54699c3f45d670026588bc88f29f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tejas_K/.android/build-cache/f81823dc15b3daa244f1db851353fbdfdf2e2ac7/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Tejas_K/Desktop/hardUST 2017/LED/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_b197aeb51b6080ee429ac43ff3b9424987a33fda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tejas_K/.android/build-cache/f81823dc15b3daa244f1db851353fbdfdf2e2ac7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Tejas_K/Desktop/hardUST 2017/LED/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f495302eb1269c0b2928cecc6c9fbbecfbe401c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tejas_K/Desktop/hardUST 2017/LED/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Tejas_K/Desktop/hardUST 2017/LED/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c966b14f06d6a3eb9f22e48380f2de833feb21d0/classes.dex" />
+    </item>
+
+</items>
